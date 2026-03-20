@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="移植贪吃蛇代码（场景切换）\" />
+  </ItemGroup>
+
 </Project>

@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            GameClass game = new GameClass();
+            game.Start();
         }
     }
 }
